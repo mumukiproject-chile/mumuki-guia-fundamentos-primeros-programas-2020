@@ -1,0 +1,5 @@
+---
+expectations:
+  - !ruby 
+    binding: program
+    inspection: Not:Uses:Poner
