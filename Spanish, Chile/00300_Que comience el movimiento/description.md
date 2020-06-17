@@ -1,4 +1,4 @@
-Hasta ahora lo que hiciste no fue muy emocionante, porque no te enseñamos cómo darle instrucciones a la máquina y sólo te mostramos un tablero :disappointed:. En este ejercicio vamos a aprender una de las órdenes que podemos darle a la máquina: mover el cabezal.
+Hasta ahora lo que hiciste no fue muy emocionante, porque no te enseñamos a darle instrucciones a la máquina, y sólo te mostramos un tablero :disappointed:. En este ejercicio vamos a aprender una de las órdenes que podemos darle a la máquina: mover el cabezal.
 
 Por ejemplo, partiendo de un tablero **inicial** vacío, podemos fácilmente escribir un programa que mueva el cabezal una posición hacia el **norte**:
 
@@ -39,4 +39,4 @@ program {
 }
 ```
 
-> ¿No nos creés? Escribí el código anterior en el editor y dale Enviar.
+> ¿No nos crees? Escribe el código anterior en el editor y dale Enviar.
