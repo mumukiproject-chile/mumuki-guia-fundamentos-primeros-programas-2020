@@ -1,0 +1,1 @@
+Cuando escribas tu propio código, tienes que tener mucho cuidado de respetar la sintaxis. En particular, presta atención al uso de mayúsculas y minúsculas. No es lo mismo `Mover` que `mover` ni `MOVER`.

@@ -1,0 +1,1 @@
+¡Felicitaciones! Acabas de escribir un programa que pone una bolita roja en la celda actual.
