@@ -2,11 +2,7 @@ Algo interesante de nuestros tableros es que en sus celdas podemos poner cualqui
 
 Por ejemplo, si tenemos este tablero:
 
-<gs-board>
-  GBB/1.0
-    size 5 2
-    head 3 1
-</gs-board>
+<gs-board> GBB/1.0 size 5 2 head 3 1 </gs-board>
 
 y ejecutamos el siguiente programa:
 
@@ -22,4 +18,4 @@ program {
 
 el cabezal colocará en la celda actual tres bolitas rojas, una azul y una verde.
 
-> ¡Escribí este programa en el editor y fijate cómo queda el tablero!
+> ¡Escribe este programa en el editor y fíjate en cómo queda el tablero!

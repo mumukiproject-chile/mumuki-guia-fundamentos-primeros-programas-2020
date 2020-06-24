@@ -1,6 +1,6 @@
-Como te imaginarás, el cabezal no sólo se puede mover hacia el Norte, y un programa puede combinar cualquier tipo de movimientos.
+Como te imaginarás, el cabezal no sólo se puede mover hacia el norte, y un programa puede combinar cualquier tipo de movimiento.
 
-> Escribí un programa que mueva el cabezal dos posiciones hacia el Este y una hacia el Sur, produciendo el siguiente efecto:
+> Escribe un programa que mueva el cabezal dos posiciones hacia el este y una hacia el sur, para producir el siguiente efecto:
 
 <table class= "table" style="width:100%">
   <thead>
@@ -31,4 +31,4 @@ Como te imaginarás, el cabezal no sólo se puede mover hacia el Norte, y un pro
   <tbody>
 </table>
 
-Recordá que el comando que mueve el cabezal se llama `Mover` (ni `mOvEr`, ni `mover`, ni `MOVER`). ¡**Respetar la sintaxis es muy importante**! Si no lo hacés, el programá no andará: _buuuu_ :fearful:.
+Recuerda que el comando que mueve el cabezal se llama `Mover` (ni `mOvEr`, ni `mover`, ni `MOVER`). ¡**Respetar la sintaxis es muy importante**! Si no lo haces, el programa no se ejecutará: _buuuu_ :fearful:.

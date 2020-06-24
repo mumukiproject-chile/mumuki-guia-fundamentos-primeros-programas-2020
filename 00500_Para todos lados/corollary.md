@@ -1,4 +1,4 @@
-Notá que estos dos programas hacen lo mismo:
+Fíjate que estos dos programas hacen lo mismo:
 
 ```gobstones
 program {
@@ -16,6 +16,6 @@ program {
 }
 ```
 
-Moraleja: como te decíamos al principio ¡no hay una sóla forma de resolver un problema!
+Moraleja: como te decíamos al principio, ¡no hay una sola forma de resolver un problema!
 
-Y además, el orden, **a veces**, no es tan importante. Acompañanos a entender mejor esto.
+Y además, el orden, **a veces**, no es tan importante. Acompáñanos para entender mejor esto.
