@@ -1,4 +1,4 @@
-Hasta ahora lo que hiciste no fue muy emocionante, porque no te enseñamos a darle instrucciones a la máquina, y sólo te mostramos un tablero :disappointed:. En este ejercicio vamos a aprender una de las órdenes que podemos darle a la máquina: mover el cabezal.
+Hasta ahora lo que hiciste no fue muy emocionante, porque no te enseñamos a darle instrucciones al máquina, y sólo te mostramos un tablero :disappointed:. En este ejercicio vamos a aprender una de las órdenes que podemos darle a la máquina: mover el cabezal.
 
 Por ejemplo, partiendo de un tablero **inicial** vacío, podemos fácilmente escribir un programa que mueva el cabezal una posición hacia el **norte**:
 
@@ -31,7 +31,7 @@ Por ejemplo, partiendo de un tablero **inicial** vacío, podemos fácilmente esc
   <tbody>
 </table>
 
-El **código** del programa (es decir, el **texto** de la descripción de la solución que le daremos a la computadora) que logra esto es el siguiente:
+El **código** del programa (es decir, el **texto** de la descripción de la solución que le daremos al computador) que logra esto es el siguiente:
 
 ```gobstones
 program {
