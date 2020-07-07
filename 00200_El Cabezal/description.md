@@ -10,8 +10,12 @@ El tablero generado en el ejercicio anterior tenía una **celda** marcada:
 
 Por ejemplo, el siguiente es un tablero de 5x2, con el cabezal en la segunda fila y la cuarta columna.
 
-<gs-board> GBB/1.0 size 5 2 head 3 1 </gs-board>
+<gs-board> 
+  GBB/1.0 
+  size 5 2 
+  head 3 1 
+  </gs-board>
 
 Algo importante: contamos las filas hacia arriba y las columnas hacia la derecha. La primera **fila** es la de más **abajo**, y la primera **columna** es la de la **izquierda**.
 
-> ¿No te convence esto aún? Presiona Enviar y generaremos un tablero 3x3 con el cabezal en la segunda columna y tercera fila.
+> ¿No te convence esto aún? Presiona Continuar y generaremos un tablero 3x3 con el cabezal en la segunda columna y tercera fila.
