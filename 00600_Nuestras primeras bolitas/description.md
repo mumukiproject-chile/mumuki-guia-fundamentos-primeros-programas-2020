@@ -9,7 +9,13 @@ En cualquier celda de nuestro tablero podemos poner `bolitas`. Las hay de distin
 
 Por ejemplo, este es un tablero con una bolita roja y una negra:
 
-<gs-board> GBB/1.0 size 2 2 cell 1 0 Rojo 1 cell 1 1 Negro 1 head 1 1 </gs-board>
+<gs-board> 
+  GBB/1.0 
+  size 2 2 
+  cell 1 0 Rojo 1 
+  cell 1 1 Negro 1 
+  head 1 1
+</gs-board>
 
 Además de moverse, el cabezal también puede poner bolitas en la **celda actual**. Para eso contamos con la operación `Poner`, que le dice al cabezal que deposite una bolita del color dado:
 
