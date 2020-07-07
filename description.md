@@ -4,6 +4,6 @@ Un momento... ¿arte? :scream: ¡Sí! Hay muchas maneras de resolver un problema
 
 Saber programar nos da un gran poder: en lugar de hacer tareas repetitivas y tediosas, **usaremos nuestros conocimientos e imaginación para automatizarlas** (por suerte, el computador no se aburre :wink:).
 
-Pero, ¿cómo le explicamos a la máquina de qué manera resolver el problema? Necesitamos escribirle en un idioma que tanto el como las personas podamos entender: el _lenguaje de programación_.
+Pero, ¿cómo le explicamos a la máquina de qué manera resolver el problema? Necesitamos escribirle en un idioma que tanto el computador como las personas podamos entender: el _lenguaje de programación_.
 
 ¡Aprendamos cómo hacerlo de la mano del lenguaje Gobstones!
