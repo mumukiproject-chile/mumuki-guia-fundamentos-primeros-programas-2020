@@ -6,4 +6,8 @@ Dicho esto, te vamos a mostrar una forma de hacerlo, simplemente para que no te 
 
 > ¿Y cómo es esa forma? Descúbrelo tú: partiendo del tablero que te mostramos acá abajo, escribe un programa que provoque que el cabezal se salga fuera de los límites.
 
-<gs-board> GBB/1.0 size 3 3 head 0 0 </gs-board>
+<gs-board> 
+  GBB/1.0 
+  size 3 3 
+  head 0 0
+</gs-board>
