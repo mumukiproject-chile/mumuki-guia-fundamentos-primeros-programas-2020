@@ -11,4 +11,10 @@ program {
 
 > Sabiendo esto, escribe un programa que elimine **sólo** la bolita roja de este tablero. ¡Ten cuidado! Presta atención a la posición del cabezal :wink:.
 
-<gs-board> GBB/1.0 size 2 2 cell 1 0 Rojo 1 cell 1 1 Negro 1 head 1 1 </gs-board>
+<gs-board> 
+  GBB/1.0 
+  size 2 2 
+  cell 1 0 Rojo 1 
+  cell 1 1 Negro 1 
+  head 1 1 
+</gs-board>
