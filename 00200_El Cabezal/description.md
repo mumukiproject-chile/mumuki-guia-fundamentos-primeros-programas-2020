@@ -1,6 +1,10 @@
 El tablero generado en el ejercicio anterior tenía una **celda** marcada:
 
-<gs-board> GBB/1.0 size 3 3 head 0 0 </gs-board>
+<gs-board> 
+  GBB/1.0 
+  size 3 3 
+  head 0 0 
+</gs-board>
 
 ¿Por qué ocurre esto? Porque nuestra máquina tiene un **cabezal**, que en todo momento está situado sobre una de las celdas del tablero y puede realizar distintas operaciones sobre ella (paciencia, ya las vamos a conocer :grin:).
 
