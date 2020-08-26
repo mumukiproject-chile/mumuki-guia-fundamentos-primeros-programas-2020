@@ -9,7 +9,7 @@ program {
 }
 ```
 
-> Sabiendo esto, escribe un programa que elimine **sólo** la bolita roja de este tablero. ¡Ten cuidado! Presta atención a la posición del cabezal :wink:.
+> Sabiendo esto, crea un programa que elimine **sólo** la bolita roja de este tablero. ¡Ten cuidado! Presta atención a la posición del cabezal :wink:.
 
 <gs-board> 
   GBB/1.0 
