@@ -2,5 +2,5 @@ Como te habrás dado cuenta, estos tableros son un poco mágicos, y podemos pone
 
 Esto es algo muy interesante, que ocurre al programar: podemos trabajar con cantidades tan grandes como queramos.
 
-> Ah, y ahora te toca a ti: escribe un programa que ponga cuatro bolitas rojas y tres bolitas negras en la celda actual.
+> Ah, y ahora te toca a ti: crea un programa que ponga cuatro bolitas rojas y tres bolitas negras en la celda actual.
 
