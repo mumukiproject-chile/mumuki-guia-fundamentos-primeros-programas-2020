@@ -16,6 +16,6 @@ Y de hecho **se ejecuta de esa forma**. Esto es _cómo_ lo hace.
 
 Pero los humanos solemos pensar en función del resultado final, es decir, resaltamos el **objetivo** del programa. Nos importa más _qué_ hace, y no _cómo_. Esta manera denotacional nos llevaría a decir que, simplemente, **mueve el cabezal al noreste**.
 
-Por eso hay varias formas de resolver un mismo problema: podemos escribir varios programas que hagan lo mismo (el _qué_), pero que lo hagan de forma diferente (el _cómo_).
+Por eso hay varias formas de resolver un mismo problema: podemos crear varios programas que hagan lo mismo (el _qué_), pero que lo hagan de forma diferente (el _cómo_).
 
-> Veamos si entendiste esto: escribe otro programa que haga lo mismo que el de arriba (mover hacia el noreste), pero de manera distinta. **Ojo:** tiene que funcionar en un tablero de 2x2.
+> Veamos si entendiste esto: crea otro programa que haga lo mismo que el de arriba (mover hacia el noreste), pero de manera distinta. Recuerda que tiene que funcionar en un tablero de 2x2.
