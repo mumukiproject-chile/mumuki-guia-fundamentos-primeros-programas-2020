@@ -1,6 +1,6 @@
 Hasta ahora lo que hiciste no fue muy emocionante, porque no te enseñamos a darle instrucciones al máquina, y sólo te mostramos un tablero :disappointed:. En este ejercicio vamos a aprender una de las órdenes que podemos darle a la máquina: mover el cabezal.
 
-Por ejemplo, partiendo de un tablero **inicial** vacío, podemos fácilmente escribir un programa que mueva el cabezal una posición hacia el **norte**:
+Por ejemplo, partiendo de un tablero **inicial** vacío, podemos fácilmente crear un programa que mueva el cabezal una posición hacia el **norte**:
 
 <table class= "table" style="width:100%">
   <thead>
