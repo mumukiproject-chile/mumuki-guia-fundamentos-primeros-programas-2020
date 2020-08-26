@@ -1,6 +1,6 @@
 Cada vez que usamos `Sacar`, tenemos que tener más cuidado que con `Poner`, porque...
 
-¿Quieres saber por qué? Intenta sacar una bolita verde o azul de este tablero y descúbrelo.
+> ¿Quieres saber por qué? Intenta sacar una bolita verde o azul de este tablero y descúbrelo.
 
 <gs-board> 
   GBB/1.0 
